@@ -3,7 +3,7 @@ kind: Service
 metadata:
   creationTimestamp: null
   labels:
-    app: vote
+    app: votexxxxxx
     tier: front
   name: vote11
 spec:
